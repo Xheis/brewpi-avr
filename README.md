@@ -1,10 +1,8 @@
-brewpi-avr
+BrewPi Keggle Slave
 ==========
 
-This is the code that runs on the BrewPi AVR/Arduino, and also as a simulator on the desktop.
-
-This project uses Git Flow. The development branch is the newest branch. The master branch is the latest stable branch. This branch works out of the box with the official BrewPi shields. If you do not want to add your own code, you can just download the latest HEX file from http://dl.brewpi.com and use the web interface to upload it to your Arduino.
-
+This is based on the BrewPi AVR/Arduino code, and will be used to control a E-BIAB keggle.
+Below is the original work:
 
 Project Layout
 --------------
